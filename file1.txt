@@ -3,3 +3,5 @@ My first bit of text!!!!!!!!!
 I'm inserting some text here
 
 Add something else
+
+new stuff in file1 as well
